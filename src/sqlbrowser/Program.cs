@@ -25,7 +25,7 @@ namespace sqlbrowser
         private int OnExecute()
         {
             Console.WriteLine();
-            Console.WriteLine($"Sqlbrowser");
+            Console.WriteLine($"Sqlbrowser @thsilva");
             Console.WriteLine();
             foreach (string server in GetServers())
             {

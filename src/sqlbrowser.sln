@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sqlbrowser", "sqlbrowser\sqlbrowser.csproj", "{FAC72DC3-EF68-4785-8CE7-6093B49D1F80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC72DC3-EF68-4785-8CE7-6093B49D1F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC72DC3-EF68-4785-8CE7-6093B49D1F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC72DC3-EF68-4785-8CE7-6093B49D1F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC72DC3-EF68-4785-8CE7-6093B49D1F80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69A9044-280A-4B17-AF37-71BBDC34CF60}
+	EndGlobalSection
+EndGlobal
